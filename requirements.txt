@@ -1,0 +1,5 @@
+streamlit-authenticator
+streamlit
+streamlit-authenticator
+PyYAML
+bcrypt

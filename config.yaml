@@ -1,0 +1,74 @@
+API_KEY: 82c6ff1521c1885b29bb725e31508550
+cookie:
+  expiry_days: 30
+  key: some_random_cookie_key
+  name: cinescope_cookie
+credentials:
+  usernames:
+    Likhitha:
+      email: likhithaj22@gmail.com
+      name: Likhitha
+      password: $2b$12$sfe5QfueE0Gu5w240eW5X.0.qYVp65LdxBGjCcO1uahhwGsDZhjze
+    Likhitha J:
+      email: likhithaj77@gmail.com
+      name: Likhitha J
+      password: $2b$12$px6AnWVqV/HIXQvKwIJoZuehmU3VKk0ZboU4wkJc4pOxZ2m9hFPti
+    likhitha:
+      email: likhithajlikhi@gmail.com
+      name: likhitha
+      password: $2b$12$CVgSHaaogRo9cdF85dxSQ.UIkhWRFnvVOVT8HfQUoFadSiVydly.G
+    likhithayaana:
+      email: ayana@gmail.com
+      name: likhithayaana
+      password: $2b$12$eZfD3M4v.8z7ubiNEA1LUOhubw.SgmrKqnQihETnDbJS7jWnAFaAG
+    sanjay:
+      email: nalamasasanjay09@gmail.com
+      name: sanjay
+      password: $2b$12$ohhrBFdykg.aK85jDM8PkeaQx5FN8EaHf80iF5c9ZVikOwtEC4LWC
+    sanjay  nalamasa:
+      email: nalamasasanjay09@gmail.com
+      name: sanjay  nalamasa
+      password: $2b$12$XTGjoC9Q.K5FZgiqEkC45e892/IX43/7FXx3L6j5ALRgwhotBjNoG
+    sanjaylikhitha:
+      email: nalamasasanjay09@gmail.com
+      name: sanjaylikhitha
+      password: $2b$12$Fd.ucxO9t9V1biENR8hMyeluGlbH5GoeZ0MPfi1BgQ4kPVoJo1B9W
+    sanjayy:
+      email: user1@gmail.com
+      name: sanjayy
+      password: $2b$12$POkyQauOEuD4MszixG.z3OIBa0x.qtLsN6uB1XaLSjw8dY9KWRCb.
+    sanjitha:
+      email: sanjitha@gmail.com
+      name: sanjitha
+      password: $2b$12$6FnvkJrmKRVeyuJKDHq2UODupj0CRG4YqY.XG5Gtnc4KiE3F3iKQC
+    sanjitha manya:
+      email: likhithaj77@gmail.com
+      name: sanjitha manya
+      password: $2b$12$miMYKo6jkja6Zku1q5PKQOiP3yoLuN019llp4ICABp6iF57yTGXJu
+    sanju:
+      email: sanju@gamil.com
+      name: sanju
+      password: $2b$12$HyGQIXN3KK2rVrcrvS./Uu1H6qf2czl/51x3zgjjEteEdpq4kUJWu
+    sanjuu:
+      email: sanjitha@gmail.com
+      name: sanjuu
+      password: $2b$12$D3FHdPtIC03KAfmw37C/AOdGBfb9oXQpqhlGFRl9o3.Q/3vzGcDUa
+    sunnny:
+      email: sanju@gmail.com
+      name: sunnny
+      password: $2b$12$.L8ZXohQiy6HFikzfz7sZuf1d0n.CCPE4wqBGyHxA7tAOXp7MYPQ.
+    sunny:
+      email: sunnygoud@gmail.com
+      name: sunny
+      password: $2b$12$KdFiN7WlC5v654dpmcWty.QpeJzNnZ7Qq8rb7oplPMMmg345ExWWS
+    testuser:
+      email: test@example.com
+      name: Test User
+      password: $2b$12$bEwWQwBMSt5af2csmZIi9.1bGtWb1/UNA3hPDhG2du3O7IEO4s2Ja
+    user:
+      email: user@gmail.com
+      name: user
+      password: $2b$12$hykYuycszow/5CBYTykgseHpCa0IJ154PxfvuoVAYoN4ICrf1EGH6
+preauthorized:
+  emails:
+  - test@example.com

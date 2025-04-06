@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pkl
+config.yaml
+.env
+.vscode/
+.venv/
+
